@@ -36,7 +36,7 @@ To run the project locally, follow these steps:
 
 Clone the Repository:
 
-Git Clone ->
+Git Clone -> https://github.com/Tengominasovi/TBC-X-USAID.git
 
 cd tbc
 
